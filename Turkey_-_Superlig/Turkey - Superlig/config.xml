@@ -1,0 +1,91 @@
+<record>
+	<!-- resource manager options -->
+
+	<!-- don't preload anything in this folder -->
+	<boolean id="preload" value="false"/>
+
+	<!-- turn off auto mapping -->
+	<boolean id="amap" value="false"/>
+
+	<!-- picture mappings -->
+	<!-- the following XML maps pictures inside this folder into other positions
+		in the resource system, which allows this folder to be dropped into any
+		place in the graphics folder and still have the game pick up the graphics
+		files from the correct places
+	-->
+
+	<list id="maps">	
+		<record from="alanyaspor1" to="graphics/pictures/team/458718/kits/home"/>
+        	<record from="alanyaspor2" to="graphics/pictures/team/458718/kits/away"/>
+        	<record from="alanyaspor3" to="graphics/pictures/team/458718/kits/third"/>
+		
+		<record from="antalyaspor1" to="graphics/pictures/team/1865/kits/home"/>
+		<record from="antalyaspor2" to="graphics/pictures/team/1865/kits/away"/>
+		<record from="antalyaspor3" to="graphics/pictures/team/1865/kits/third"/>
+
+		<record from="basaksehir1" to="graphics/pictures/team/130343/kits/home"/>
+		<record from="basaksehir2" to="graphics/pictures/team/130343/kits/away"/>
+		<record from="basaksehir3" to="graphics/pictures/team/130343/kits/third"/>
+
+		<record from="besiktas1" to="graphics/pictures/team/1866/kits/home"/>
+		<record from="besiktas2" to="graphics/pictures/team/1866/kits/away"/>
+		<record from="besiktas3" to="graphics/pictures/team/1866/kits/third"/>
+
+		<record from="gaziantep1" to="graphics/pictures/team/130341/kits/home"/>
+		<record from="gaziantep2" to="graphics/pictures/team/130341/kits/away"/>
+		<record from="gaziantep3" to="graphics/pictures/team/130341/kits/third"/>
+
+		<record from="fenerbahce1" to="graphics/pictures/team/1870/kits/home"/>
+		<record from="fenerbahce2" to="graphics/pictures/team/1870/kits/away"/>
+		<record from="fenerbahce3" to="graphics/pictures/team/1870/kits/third"/>
+
+		<record from="galatasaray1" to="graphics/pictures/team/1871/kits/home"/>
+		<record from="galatasaray2" to="graphics/pictures/team/1871/kits/away"/>
+		<record from="galatasaray3" to="graphics/pictures/team/1871/kits/third"/>
+
+                <record from="goztepe1" to="graphics/pictures/team/130338/kits/home"/>
+		<record from="goztepe2" to="graphics/pictures/team/130338/kits/away"/>
+		<record from="goztepe3" to="graphics/pictures/team/130338/kits/third"/>
+		
+		<record from="kasimpasa1" to="graphics/pictures/team/130360/kits/home"/>
+		<record from="kasimpasa2" to="graphics/pictures/team/130360/kits/away"/>
+		<record from="kasimpasa3" to="graphics/pictures/team/130360/kits/third"/>
+
+		<record from="kayserispor1" to="graphics/pictures/team/1875/kits/home"/>
+		<record from="kayserispor2" to="graphics/pictures/team/1875/kits/away"/>
+		<record from="kayserispor3" to="graphics/pictures/team/1875/kits/third"/>
+
+		<record from="konyaspor1" to="graphics/pictures/team/130344/kits/home"/>
+		<record from="konyaspor2" to="graphics/pictures/team/130344/kits/away"/>
+		<record from="konyaspor3" to="graphics/pictures/team/130344/kits/third"/>
+
+		<record from="trabzonspor1" to="graphics/pictures/team/1879/kits/home"/>
+		<record from="trabzonspor2" to="graphics/pictures/team/1879/kits/away"/>
+		<record from="trabzonspor3" to="graphics/pictures/team/1879/kits/third"/>
+
+                <record from="eyupspor1" to="graphics/pictures/team/130289/kits/home"/>
+		<record from="eyupspor2" to="graphics/pictures/team/130289/kits/away"/>
+		<record from="eyupspor3" to="graphics/pictures/team/130289/kits/third"/>
+
+                <record from="samsunspor1" to="graphics/pictures/team/1878/kits/home"/>
+		<record from="samsunspor2" to="graphics/pictures/team/1878/kits/away"/>
+		<record from="samsunspor3" to="graphics/pictures/team/1878/kits/third"/>
+
+       		<record from="rizespor1" to="graphics/pictures/team/130366/kits/home"/>
+        	<record from="rizespor2" to="graphics/pictures/team/130366/kits/away"/>
+        	<record from="rizespor3" to="graphics/pictures/team/130366/kits/third"/>
+
+                <record from="genclerbirligi1" to="graphics/pictures/team/1873/kits/home"/>
+		<record from="genclerbirligi2" to="graphics/pictures/team/1873/kits/away"/>
+		<record from="genclerbirligi3" to="graphics/pictures/team/1873/kits/third"/>
+
+                <record from="karagumruk1" to="graphics/pictures/team/458631/kits/home"/>
+		<record from="karagumruk2" to="graphics/pictures/team/458631/kits/away"/>
+		<record from="karagumruk3" to="graphics/pictures/team/458631/kits/third"/>
+
+                <record from="kocaelispor1" to="graphics/pictures/team/1876/kits/home"/>
+		<record from="kocaelispor2" to="graphics/pictures/team/1876/kits/away"/>
+		<record from="kocaelispor3" to="graphics/pictures/team/1876/kits/third"/>
+
+	</list>
+</record>
