@@ -1,0 +1,74 @@
+<record>
+	<!-- resource manager options -->
+
+	<!-- dont preload anything in this folder -->
+	<boolean id="preload" value="false"/>
+
+	<!-- turn off auto mapping -->
+	<boolean id="amap" value="false"/>
+
+	<!-- logo mappings -->
+	<!-- the following XML maps pictures inside this folder into other positions
+			 in the resource system, which allows this folder to be dropped into any
+			 place in the graphics folder and still have the game pick up the graphics
+			 files from the correct places
+	-->
+
+	<list id="maps">
+		<!-- Made by Patres10 from FM Slovakia -->
+		<record from="augsburg_1" to="graphics/pictures/team/2238/kits/home"/>
+		<record from="augsburg_2" to="graphics/pictures/team/2238/kits/away"/>
+		<record from="augsburg_3" to="graphics/pictures/team/2238/kits/third"/>
+		<record from="leverkusen_1" to="graphics/pictures/team/901/kits/home"/>
+		<record from="leverkusen_2" to="graphics/pictures/team/901/kits/away"/>
+		<record from="leverkusen_3" to="graphics/pictures/team/901/kits/third"/>
+		<record from="bayern_1" to="graphics/pictures/team/915/kits/home"/>
+		<record from="bayern_2" to="graphics/pictures/team/915/kits/away"/>
+		<record from="bayern_3" to="graphics/pictures/team/915/kits/third"/>
+		<record from="koln_1" to="graphics/pictures/team/916/kits/home"/>
+		<record from="koln_2" to="graphics/pictures/team/916/kits/away"/>
+		<record from="koln_3" to="graphics/pictures/team/916/kits/third"/>	
+		<record from="hsv_1" to="graphics/pictures/team/947/kits/home"/>
+		<record from="hsv_2" to="graphics/pictures/team/947/kits/away"/>
+		<record from="hsv_3" to="graphics/pictures/team/947/kits/third"/>
+		<record from="dortmund_1" to="graphics/pictures/team/907/kits/home"/>
+		<record from="dortmund_2" to="graphics/pictures/team/907/kits/away"/>
+		<record from="dortmund_3" to="graphics/pictures/team/907/kits/third"/>
+		<record from="eintracht_frankfurt_1" to="graphics/pictures/team/912/kits/home"/>
+		<record from="eintracht_frankfurt_2" to="graphics/pictures/team/912/kits/away"/>
+		<record from="eintracht_frankfurt_3" to="graphics/pictures/team/912/kits/third"/>
+		<record from="freiburg_1" to="graphics/pictures/team/944/kits/home"/>
+		<record from="freiburg_2" to="graphics/pictures/team/944/kits/away"/>
+		<record from="freiburg_3" to="graphics/pictures/team/944/kits/third"/>
+		<record from="heidenheim_1" to="graphics/pictures/team/880295/kits/home"/>
+		<record from="heidenheim_2" to="graphics/pictures/team/880295/kits/away"/>
+		<record from="heidenheim_3" to="graphics/pictures/team/880295/kits/third"/>
+		<record from="hoffenheim_1" to="graphics/pictures/team/879226/kits/home"/>
+		<record from="hoffenheim_2" to="graphics/pictures/team/879226/kits/away"/>
+		<record from="hoffenheim_3" to="graphics/pictures/team/879226/kits/third"/>
+		<record from="mainz_1" to="graphics/pictures/team/918/kits/home"/>
+		<record from="mainz_2" to="graphics/pictures/team/918/kits/away"/>
+		<record from="mainz_3" to="graphics/pictures/team/918/kits/third"/>
+		<record from="borussia_gladbach_1" to="graphics/pictures/team/908/kits/home"/>
+		<record from="borussia_gladbach_2" to="graphics/pictures/team/908/kits/away"/>
+		<record from="borussia_gladbach_3" to="graphics/pictures/team/908/kits/third"/>
+		<record from="rb_leipzig_1" to="graphics/pictures/team/91013388/kits/home"/>
+		<record from="rb_leipzig_2" to="graphics/pictures/team/91013388/kits/away"/>
+		<record from="rb_leipzig_3" to="graphics/pictures/team/91013388/kits/third"/>
+		<record from="st_pauli_1" to="graphics/pictures/team/946/kits/home"/>
+		<record from="st_pauli_2" to="graphics/pictures/team/946/kits/away"/>
+		<record from="st_pauli_3" to="graphics/pictures/team/946/kits/third"/>
+		<record from="stuttgart_1" to="graphics/pictures/team/960/kits/home"/>
+		<record from="stuttgart_2" to="graphics/pictures/team/960/kits/away"/>
+		<record from="stuttgart_3" to="graphics/pictures/team/960/kits/third"/>
+            <record from="union_berlin_1" to="graphics/pictures/team/121182/kits/home"/>
+		<record from="union_berlin_2" to="graphics/pictures/team/121182/kits/away"/>
+		<record from="union_berlin_3" to="graphics/pictures/team/121182/kits/third"/>
+            <record from="werder_bremen_1" to="graphics/pictures/team/948/kits/home"/>
+		<record from="werder_bremen_2" to="graphics/pictures/team/948/kits/away"/>
+		<record from="werder_bremen_3" to="graphics/pictures/team/948/kits/third"/>
+            <record from="wolfsburg_1" to="graphics/pictures/team/961/kits/home"/>
+		<record from="wolfsburg_2" to="graphics/pictures/team/961/kits/away"/>
+		<record from="wolfsburg_3" to="graphics/pictures/team/961/kits/third"/>
+	</list>
+</record>
