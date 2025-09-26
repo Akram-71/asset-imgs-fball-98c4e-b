@@ -1,0 +1,245 @@
+<record>
+	<!-- resource manager options -->
+
+	<!-- dont preload anything in this folder -->
+	<boolean id="preload" value="false"/>
+
+	<!-- turn off auto mapping -->
+	<boolean id="amap" value="false"/>
+
+	<!-- logo mappings -->
+	<!-- the following XML maps pictures inside this folder into other positions
+			 in the resource system, which allows this folder to be dropped into any
+			 place in the graphics folder and still have the game pick up the graphics
+			 files from the correct places
+	-->
+
+	<list id="maps">
+		<!-- Made by Caniggia1978, Einherjer83 and Patres10 for fmslovakia.com -->
+		<record from="algeria1" to="graphics/pictures/team/5/kits/home"/>
+		<record from="algeria2" to="graphics/pictures/team/5/kits/away"/>
+		<record from="algeria3" to="graphics/pictures/team/5/kits/third"/>
+
+		<record from="angola1" to="graphics/pictures/team/6/kits/home"/>
+		<record from="angola2" to="graphics/pictures/team/6/kits/away"/>
+		<record from="angola3" to="graphics/pictures/team/6/kits/third"/>
+
+		<record from="benin1" to="graphics/pictures/team/7/kits/home"/>
+		<record from="benin2" to="graphics/pictures/team/7/kits/away"/>
+		<record from="benin3" to="graphics/pictures/team/7/kits/third"/>
+
+		<record from="botswana1" to="graphics/pictures/team/8/kits/home"/>
+		<record from="botswana2" to="graphics/pictures/team/8/kits/away"/>
+		<record from="botswana3" to="graphics/pictures/team/8/kits/third"/>
+
+		<record from="burkina_fasso1" to="graphics/pictures/team/9/kits/home"/>
+		<record from="burkina_fasso2" to="graphics/pictures/team/9/kits/away"/>
+		<record from="burkina_fasso3" to="graphics/pictures/team/9/kits/third"/>
+
+		<record from="burundi1" to="graphics/pictures/team/10/kits/home"/>
+		<record from="burundi2" to="graphics/pictures/team/10/kits/away"/>
+		<record from="burundi3" to="graphics/pictures/team/10/kits/third"/>
+
+		<record from="cameroon1" to="graphics/pictures/team/11/kits/home"/>
+		<record from="cameroon2" to="graphics/pictures/team/11/kits/away"/>
+		<record from="cameroon3" to="graphics/pictures/team/11/kits/third"/>
+
+		<record from="capo_verde1" to="graphics/pictures/team/12/kits/home"/>
+		<record from="capo_verde2" to="graphics/pictures/team/12/kits/away"/>
+		<record from="capo_verde3" to="graphics/pictures/team/12/kits/third"/>
+
+		<record from="central_african_republic1" to="graphics/pictures/team/13/kits/home"/>
+		<record from="central_african_republic2" to="graphics/pictures/team/13/kits/away"/>
+		<record from="central_african_republic3" to="graphics/pictures/team/13/kits/third"/>
+
+		<record from="chad1" to="graphics/pictures/team/14/kits/home"/>
+		<record from="chad2" to="graphics/pictures/team/14/kits/away"/>
+		<record from="chad3" to="graphics/pictures/team/14/kits/third"/>
+
+		<record from="comoros1" to="graphics/pictures/team/919586/kits/home"/>
+		<record from="comoros2" to="graphics/pictures/team/919586/kits/away"/>
+		<record from="comoros3" to="graphics/pictures/team/919586/kits/third"/>
+
+		<record from="congo1" to="graphics/pictures/team/49/kits/home"/>
+		<record from="congo2" to="graphics/pictures/team/49/kits/away"/>
+		<record from="congo3" to="graphics/pictures/team/49/kits/third"/>
+
+		<record from="djibouti1" to="graphics/pictures/team/15/kits/home"/>
+		<record from="djibouti2" to="graphics/pictures/team/15/kits/away"/>
+		<record from="djibouti3" to="graphics/pictures/team/15/kits/third"/>
+
+		<record from="dr_congo1" to="graphics/pictures/team/53/kits/home"/>
+		<record from="dr_congo2" to="graphics/pictures/team/53/kits/away"/>
+		<record from="dr_congo3" to="graphics/pictures/team/53/kits/third"/>
+
+		<record from="egypt1" to="graphics/pictures/team/16/kits/home"/>
+		<record from="egypt2" to="graphics/pictures/team/16/kits/away"/>
+		<record from="egypt3" to="graphics/pictures/team/16/kits/third"/>
+
+		<record from="equatorial_guinea1" to="graphics/pictures/team/17/kits/home"/>
+		<record from="equatorial_guinea2" to="graphics/pictures/team/17/kits/away"/>
+		<record from="equatorial_guinea3" to="graphics/pictures/team/17/kits/third"/>
+
+		<record from="eritrea1" to="graphics/pictures/team/129511/kits/home"/>
+		<record from="eritrea2" to="graphics/pictures/team/129511/kits/away"/>
+		<record from="eritrea3" to="graphics/pictures/team/129511/kits/third"/>
+
+		<record from="eswatini1" to="graphics/pictures/team/47/kits/home"/>
+		<record from="eswatini2" to="graphics/pictures/team/47/kits/away"/>
+		<record from="eswatini3" to="graphics/pictures/team/47/kits/third"/>
+
+		<record from="ethiopia1" to="graphics/pictures/team/18/kits/home"/>
+		<record from="ethiopia2" to="graphics/pictures/team/18/kits/away"/>
+		<record from="ethiopia3" to="graphics/pictures/team/18/kits/third"/>
+
+		<record from="gabon1" to="graphics/pictures/team/19/kits/home"/>
+		<record from="gabon2" to="graphics/pictures/team/19/kits/away"/>
+		<record from="gabon3" to="graphics/pictures/team/19/kits/third"/>
+
+		<record from="gambia1" to="graphics/pictures/team/20/kits/home"/>
+		<record from="gambia2" to="graphics/pictures/team/20/kits/away"/>
+		<record from="gambia3" to="graphics/pictures/team/20/kits/third"/>
+
+		<record from="ghana1" to="graphics/pictures/team/21/kits/home"/>
+		<record from="ghana2" to="graphics/pictures/team/21/kits/away"/>
+		<record from="ghana3" to="graphics/pictures/team/21/kits/third"/>
+
+		<record from="guinea1" to="graphics/pictures/team/22/kits/home"/>
+		<record from="guinea2" to="graphics/pictures/team/22/kits/away"/>
+		<record from="guinea3" to="graphics/pictures/team/22/kits/third"/>
+
+		<record from="guinea_bissau1" to="graphics/pictures/team/23/kits/home"/>
+		<record from="guinea_bissau2" to="graphics/pictures/team/23/kits/away"/>
+		<record from="guinea_bissau3" to="graphics/pictures/team/23/kits/third"/>
+
+		<record from="ivory_coast1" to="graphics/pictures/team/24/kits/home"/>
+		<record from="ivory_coast2" to="graphics/pictures/team/24/kits/away"/>
+		<record from="ivory_coast3" to="graphics/pictures/team/24/kits/third"/>
+
+		<record from="kenya1" to="graphics/pictures/team/25/kits/home"/>
+		<record from="kenya2" to="graphics/pictures/team/25/kits/away"/>
+		<record from="kenya3" to="graphics/pictures/team/25/kits/third"/>
+
+		<record from="lesotho1" to="graphics/pictures/team/26/kits/home"/>
+		<record from="lesotho2" to="graphics/pictures/team/26/kits/away"/>
+		<record from="lesotho3" to="graphics/pictures/team/26/kits/third"/>
+
+		<record from="liberia1" to="graphics/pictures/team/27/kits/home"/>
+		<record from="liberia2" to="graphics/pictures/team/27/kits/away"/>
+		<record from="liberia3" to="graphics/pictures/team/27/kits/third"/>
+
+		<record from="libya1" to="graphics/pictures/team/28/kits/home"/>
+		<record from="libya2" to="graphics/pictures/team/28/kits/away"/>
+		<record from="libya3" to="graphics/pictures/team/28/kits/third"/>
+
+		<record from="madagascar1" to="graphics/pictures/team/29/kits/home"/>
+		<record from="madagascar2" to="graphics/pictures/team/29/kits/away"/>
+		<record from="madagascar3" to="graphics/pictures/team/29/kits/third"/>
+
+		<record from="malawi1" to="graphics/pictures/team/30/kits/home"/>
+		<record from="malawi2" to="graphics/pictures/team/30/kits/away"/>
+		<record from="malawi3" to="graphics/pictures/team/30/kits/third"/>
+
+		<record from="mali1" to="graphics/pictures/team/31/kits/home"/>
+		<record from="mali2" to="graphics/pictures/team/31/kits/away"/>
+		<record from="mali3" to="graphics/pictures/team/31/kits/third"/>
+
+		<record from="mauritania1" to="graphics/pictures/team/32/kits/home"/>
+		<record from="mauritania2" to="graphics/pictures/team/32/kits/away"/>
+		<record from="mauritania3" to="graphics/pictures/team/32/kits/third"/>
+
+		<record from="mauritius1" to="graphics/pictures/team/33/kits/home"/>
+		<record from="mauritius2" to="graphics/pictures/team/33/kits/away"/>
+		<record from="mauritius3" to="graphics/pictures/team/33/kits/third"/>
+
+                <record from="mayotte1" to="graphics/pictures/team/918740/kits/home"/>
+                <record from="mayotte2" to="graphics/pictures/team/918740/kits/away"/>
+
+		<record from="morocco1" to="graphics/pictures/team/34/kits/home"/>
+		<record from="morocco2" to="graphics/pictures/team/34/kits/away"/>
+		<record from="morocco3" to="graphics/pictures/team/34/kits/third"/>
+
+		<record from="mozambique1" to="graphics/pictures/team/35/kits/home"/>
+		<record from="mozambique2" to="graphics/pictures/team/35/kits/away"/>
+		<record from="mozambique3" to="graphics/pictures/team/35/kits/third"/>
+
+		<record from="namibia1" to="graphics/pictures/team/36/kits/home"/>
+		<record from="namibia2" to="graphics/pictures/team/36/kits/away"/>
+		<record from="namibia3" to="graphics/pictures/team/36/kits/third"/>
+
+		<record from="niger1" to="graphics/pictures/team/37/kits/home"/>
+		<record from="niger2" to="graphics/pictures/team/37/kits/away"/>
+		<record from="niger3" to="graphics/pictures/team/37/kits/third"/>
+
+		<record from="nigeria1" to="graphics/pictures/team/38/kits/home"/>
+		<record from="nigeria2" to="graphics/pictures/team/38/kits/away"/>
+		<record from="nigeria3" to="graphics/pictures/team/38/kits/third"/>
+
+                <record from="reunion1" to="graphics/pictures/team/917510/kits/home"/>
+                <record from="reunion2" to="graphics/pictures/team/917510/kits/away"/>
+
+		<record from="rwanda1" to="graphics/pictures/team/39/kits/home"/>
+		<record from="rwanda2" to="graphics/pictures/team/39/kits/away"/>
+		<record from="rwanda3" to="graphics/pictures/team/39/kits/third"/>
+
+		<record from="sao_tome_principe1" to="graphics/pictures/team/40/kits/home"/>
+		<record from="sao_tome_principe2" to="graphics/pictures/team/40/kits/away"/>
+		<record from="sao_tome_principe3" to="graphics/pictures/team/40/kits/third"/>
+
+		<record from="senegal1" to="graphics/pictures/team/41/kits/home"/>
+		<record from="senegal2" to="graphics/pictures/team/41/kits/away"/>
+		<record from="senegal3" to="graphics/pictures/team/41/kits/third"/>
+
+		<record from="seychelles1" to="graphics/pictures/team/42/kits/home"/>
+		<record from="seychelles2" to="graphics/pictures/team/42/kits/away"/>
+		<record from="seychelles3" to="graphics/pictures/team/42/kits/third"/>
+
+		<record from="sierra_leone1" to="graphics/pictures/team/43/kits/home"/>
+		<record from="sierra_leone2" to="graphics/pictures/team/43/kits/away"/>
+		<record from="sierra_leone3" to="graphics/pictures/team/43/kits/third"/>
+
+		<record from="somalia1" to="graphics/pictures/team/44/kits/home"/>
+		<record from="somalia2" to="graphics/pictures/team/44/kits/away"/>
+		<record from="somalia3" to="graphics/pictures/team/44/kits/third"/>
+
+		<record from="south_africa1" to="graphics/pictures/team/45/kits/home"/>
+		<record from="south_africa2" to="graphics/pictures/team/45/kits/away"/>
+		<record from="south_africa3" to="graphics/pictures/team/45/kits/third"/>
+
+		<record from="south_sudan1" to="graphics/pictures/team/13113220/kits/home"/>
+		<record from="south_sudan2" to="graphics/pictures/team/13113220/kits/away"/>
+		<record from="south_sudan3" to="graphics/pictures/team/13113220/kits/third"/>
+
+		<record from="sudan1" to="graphics/pictures/team/46/kits/home"/>
+		<record from="sudan2" to="graphics/pictures/team/46/kits/away"/>
+		<record from="sudan3" to="graphics/pictures/team/46/kits/third"/>
+
+		<record from="tanzania1" to="graphics/pictures/team/48/kits/home"/>
+		<record from="tanzania2" to="graphics/pictures/team/48/kits/away"/>
+		<record from="tanzania3" to="graphics/pictures/team/48/kits/third"/>
+
+		<record from="togo1" to="graphics/pictures/team/50/kits/home"/>
+		<record from="togo2" to="graphics/pictures/team/50/kits/away"/>
+		<record from="togo3" to="graphics/pictures/team/50/kits/third"/>
+
+		<record from="tunisia1" to="graphics/pictures/team/51/kits/home"/>
+		<record from="tunisia2" to="graphics/pictures/team/51/kits/away"/>
+		<record from="tunisia3" to="graphics/pictures/team/51/kits/third"/>
+
+		<record from="uganda1" to="graphics/pictures/team/52/kits/home"/>
+		<record from="uganda2" to="graphics/pictures/team/52/kits/away"/>
+		<record from="uganda3" to="graphics/pictures/team/52/kits/third"/>
+
+		<record from="zambia1" to="graphics/pictures/team/54/kits/home"/>
+		<record from="zambia2" to="graphics/pictures/team/54/kits/away"/>
+		<record from="zambia3" to="graphics/pictures/team/54/kits/third"/>
+
+		<record from="zanzibar1" to="graphics/pictures/team/13100103/kits/home"/>
+		<record from="zanzibar2" to="graphics/pictures/team/13100103/kits/away"/>
+		<record from="zanzibar3" to="graphics/pictures/team/13100103/kits/third"/>
+
+		<record from="zimbabwe1" to="graphics/pictures/team/55/kits/home"/>
+		<record from="zimbabwe2" to="graphics/pictures/team/55/kits/away"/>
+		<record from="zimbabwe3" to="graphics/pictures/team/55/kits/third"/>
+	</list>
+</record>
